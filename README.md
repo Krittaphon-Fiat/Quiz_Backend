@@ -2,6 +2,8 @@
 
 A web application for managing a book store. The application allows users to browse books, add them to their cart, and proceed with checkout. Admins can manage books (CRUD operations) via an easy-to-use interface. The cart system supports adding multiple books, viewing the cart, and calculating the total with potential discounts.
 
+**Live Demo:** https://bookstorefiat.netlify.app/ 
+
 ## Features
 
 ### For Users:
